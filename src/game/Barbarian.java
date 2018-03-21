@@ -12,7 +12,7 @@ public class Barbarian extends Character {
 
 		System.out.println("You are a strong, hulky barbarian. Añadimos texto en esta linea");
 		System.out.println("You are a strong, hulky barbarian. Conflicto resuelto prueba Usuario 1");
-		System.out.println("You are a strong, hulky barbarian. Prueba de koldo!");	}
+		System.out.println("You are a strong, hulky barbarian. Prueba nueva");	}
 
 		}
 }
