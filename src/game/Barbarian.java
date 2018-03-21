@@ -19,7 +19,9 @@ public class Barbarian extends Character {
 		System.out.println("You are a strong, hulky barbarian. Prueba nueva");
 		System.out.println("You are a strong, hulky barbarian. Prueba nueva 3");
 		
-		System.out.println("Si miras al abismo, el abismo te devolvera la mirada");}
+		System.out.println("Si miras al abismo, el abismo te devolvera la mirada");
+		System.out.println("Prueba 2mil uno XD");}
+
 
 		}
 }
